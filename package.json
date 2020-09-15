@@ -1,0 +1,23 @@
+{
+  "name": "ajs_1_2_3_modules",
+  "version": "1.0.0",
+  "description": "AJS_1_2_3_modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvartdinovtimurlinux/esm.git"
+  },
+  "author": "Anvartdinov Timur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvartdinovtimurlinux/esm/issues"
+  },
+  "homepage": "https://github.com/anvartdinovtimurlinux/esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
